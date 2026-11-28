@@ -1,7 +1,7 @@
 
 # ELEC 4 - Python Programming
 
-**Name:** [Your Full Name]  
+**Name:** Alina E. Viray
 **Section:** IV-BSIT-C  
 **Course:** ELEC 4 - Python Programming
 
