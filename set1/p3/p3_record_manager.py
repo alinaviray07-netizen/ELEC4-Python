@@ -2,7 +2,7 @@
 # Name: Alina E. Viray
 # Section: IV-BSIT-C
 # Activity: P3 - Student Record Manager
-# Date: November 19, 2026
+# Date: November 20, 2026
 
 # List for storing student names
 students = []
